@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/home_store"
+        android:title="Toko"
+        android:icon="@drawable/ic_store_bottom_24px">
+
+    </item>
+
+    <item android:id="@+id/home_profile"
+        android:title="Profil"
+        android:icon="@drawable/ic_person_bottom_24px">
+
+    </item>
+
+</menu>
